@@ -1,0 +1,27 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+=> It enabled me to see the changes and errors made within the code more clearly. Plus it minimized the search space so that i could more efficiently solve my problem.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+=> If i had known that i could easily restore previous versions of a file i wouldn't be taunted by the fear of making changes to my project or testing out the abilities of particular code snippets.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+=>It's import to save multiple files in one commit as the files might be related. different files might have extensions of another file that will be important to the overall operation of the program
+
+How can you use the commands git log and git diff to view the history of files?
+
+==> "git log" This command enables a user to see all the changes that has previously been made in the project.
+	"git diff"  This command enables a user to see the difference in the previously commited versions of the project
+
+    "git config --global color.ui" This command changes the global configuration of the git code output by using colors to veiw changes in commits
+
+ How might using version control make you more confident to make changes that could break something?
+
+ ==> "git checkout" is used to inspect different versions of your code, it can be used to locate error within the file by combining the command with "git diff" use this to note changes with the version the bug was introduced and it's previous verison.
+ This method of finding errors insites confidents as it enables users to more effectively manuevuer there code.
+
+ Now that you have your workspace set up, what do you want to try using Git for?
+
+ ==>   
